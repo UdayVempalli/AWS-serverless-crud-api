@@ -112,4 +112,4 @@ serverless remove
 
 ## 📄 License
 
-MIT © [Your Name]
+MIT © 
